@@ -2050,3 +2050,32 @@ LogInit: Object subsystem initialized
 [2025.05.30-02.57.28:891][123]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.30-02.57.28:891][123]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.30-02.57.28:892][123]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap アセットを検証しています
+[2025.05.30-03.00.27:889][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6588.581543
+[2025.05.30-03.00.28:888][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.00.28:888][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6589.246094, Update Interval: 345.790588
+[2025.05.30-03.06.59:284][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6979.982422
+[2025.05.30-03.07.00:284][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.07.00:284][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6980.649414, Update Interval: 302.287048
+[2025.05.30-03.09.05:972][798]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: aa0...255
+[2025.05.30-03.09.05:972][798]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.84 RefreshExpires: 1.554e+07
+[2025.05.30-03.09.06:972][801]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: aa0...255 Access[Expires: 2025.05.30-05.09.34 Remaining: 7200.78] Refresh[Expires: 2025-11-26T00:56:19.177Z Remaining: 15544005.18] State: Valid
+[2025.05.30-03.12.34:192][423]LogDerivedDataCache: C:/Users/CGuser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-03.12.58:007][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7338.704102
+[2025.05.30-03.12.59:006][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.12.59:007][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7339.370605, Update Interval: 352.664581
+[2025.05.30-03.19.22:740][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7723.442871
+[2025.05.30-03.19.23:740][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.19.23:740][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7724.109863, Update Interval: 302.623993
+[2025.05.30-03.25.19:460][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8080.166504
+[2025.05.30-03.25.20:460][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.25.20:460][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8080.832520, Update Interval: 340.247803
+[2025.05.30-03.31.40:855][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8461.549805
+[2025.05.30-03.31.41:856][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-03.31.41:856][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8462.215820, Update Interval: 357.180084
+[2025.05.30-03.32.59:451][ 98]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ヘッドホン (Realtek(R) Audio), InstanceID=1
+[2025.05.30-03.32.59:533][ 98]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.30-03.32.59:533][ 98]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19612
+[2025.05.30-03.33.00:199][100]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.30-03.33.00:201][100]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{865093b8-aeb7-47e5-995b-9dd161787bc8}, Name=ヘッドホン (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=342.03
+[2025.05.30-03.33.00:201][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.30-03.33.00:203][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
